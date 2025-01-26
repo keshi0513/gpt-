@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="视觉小说">
+    <title>The life after my death - 介绍页面</title>
+    <link rel="stylesheet" href="styles.css"> <!-- 如果你有外部样式文件 -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            max-width: 1200px;
+            margin: 20px auto;
+            background-color: white;
+            border-radius: 8px;
+        }
+        h2 {
+            color: #333;
+        }
+        .game-img {
+            width: 100%;
+            max-width: 800px;
+            margin: 20px 0;
+        }
+        .features {
+            display: flex;
+            justify-content: space-around;
+            text-align: center;
+        }
+        .feature {
+            width: 30%;
+            padding: 10px;
+            background-color: #f8f8f8;
+            border-radius: 5px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>The life after my death</h1>
+    <p>荒谬中体验爱,死亡与自我</p>
+</header>
+
+
+
+<footer>
+    <p>&copy; 2025 个人游戏开发者lox | 所有权利保留</p>
+</footer>
+
+</body>
+</html>
